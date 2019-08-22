@@ -1,0 +1,8 @@
+let userName = 'Тимурик';
+
+function showMessage() {
+  let message = 'Привет, ' + userName;
+  alert(message);
+}
+
+showMessage(); // Привет, Тимурик
